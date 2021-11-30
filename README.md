@@ -2,10 +2,10 @@
 #### I am a Programmer - Coder - Developer
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML
 
-- 🔭 I’m currently working on Reinforcement Learning 
-- 🌱 I’m currently learning Machine Learning - Reinforcement Learning 
+- 🔭 I have worked on Reinforcement Learning 
+- 🌱 I’m currently learning Competitive Programming, Computer Vision, Mathematics 
 - 📫 How to reach me: mdfarhansadiq01@gmail.com 
 
 
