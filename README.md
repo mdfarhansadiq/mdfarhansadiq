@@ -5,7 +5,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: REACT / JS / HTML
 
 - 🔭 I have worked on Reinforcement Learning 
-- 🌱 I’m currently learning Competitive Programming, Computer Vision, Mathematics 
+- 🌱 I’m currently learning Competitive Programming, JavaScript(ES6), Mathematics 
 - 📫 How to reach me: mdfarhansadiq01@gmail.com 
 
 
