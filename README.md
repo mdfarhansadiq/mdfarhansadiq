@@ -19,7 +19,7 @@ Skills: Laravel / JS / HTML
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdfarhansadiq&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdfarhansadiq)  
+  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdfarhansadiq)  
 
