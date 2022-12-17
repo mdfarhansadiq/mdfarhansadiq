@@ -5,7 +5,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: Laravel / JS / HTML
 
 - 🔭 I have worked on Reinforcement Learning 
-- 🌱 I’m currently learning Competitive Programming, JavaScript(ES6), Mathematics, VueJS
+- 🌱 I’m currently learning Competitive Programming, JavaScript(ES6), Mathematics, Laravel
 - 📫 How to reach me: mdfarhansadiq01@gmail.com 
 
 
