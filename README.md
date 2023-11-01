@@ -20,7 +20,4 @@ Skills: Laravel / JS / HTML / PHP
 
 
   
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdfarhansadiq)  
-
-![Profile views](https://gpvc.arturio.dev/mdfarhansadiq)  
