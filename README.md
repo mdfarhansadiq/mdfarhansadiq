@@ -17,4 +17,3 @@ Skills: Laravel / JS / HTML / PHP
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfarhansadiq)](https://github.com/anuraghazra/github-readme-stats)
 
   
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdfarhansadiq)  
