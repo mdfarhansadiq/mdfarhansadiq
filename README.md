@@ -2,10 +2,10 @@
 #### I am a Programmer - Coder - Developer
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: Laravel / JS / HTML
+Skills: Laravel / JS / HTML / PHP
 
 - 🔭 I have worked on Reinforcement Learning 
-- 🌱 I’m currently learning Competitive Programming, JavaScript(ES6), Mathematics, Laravel
+- 🌱 I’m currently learning Competitive Programming, PHP, Python, JavaScript(ES6), Mathematics, Laravel
 - 📫 How to reach me: mdfarhansadiq01@gmail.com 
 
 
@@ -17,7 +17,7 @@ Skills: Laravel / JS / HTML
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfarhansadiq)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdfarhansadiq&show_icons=true)  
+
 
   
 
