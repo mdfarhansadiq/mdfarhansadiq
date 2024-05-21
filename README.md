@@ -2,10 +2,10 @@
 #### I am a Programmer - Coder - Developer
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: Laravel / JS / HTML / PHP
+Skills: Laravel / JS / HTML / PHP / Python
 
 - 🔭 I have worked on Reinforcement Learning 
-- 🌱 I’m currently learning Competitive Programming, PHP, Python, JavaScript(ES6), Mathematics, Laravel
+- 🌱 I’m currently learning Competitive Programming, PHP, Python, JavaScript(ES6), Mathematics, Laravel, Django
 - 📫 How to reach me: mdfarhansadiq01@gmail.com 
 
 
