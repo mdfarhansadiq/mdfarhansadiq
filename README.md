@@ -20,7 +20,7 @@ I'm a passionate **Programmer**, **Coder**, and **Developer** who loves experime
   - Django
 
 ### 🚀 Projects
-- 🔭 **Reinforcement Learning:** Worked on various projects in this domain.
+- 🔭 **Web Development:** Worked on various projects using Laravel and a Flask project.
 
 ### 🌱 What I'm Learning
 I'm continuously improving my skills in:
