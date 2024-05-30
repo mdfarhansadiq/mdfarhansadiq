@@ -36,13 +36,13 @@ Feel free to reach out to me via email at:
 ---
 
 ### 🏆 Achievements
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mdfarhansadiq&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mdfarhansadiq&theme=nightowl)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdfarhansadiq&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdfarhansadiq&show_icons=true&theme=nightowl)
 
 ### 📚 Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfarhansadiq&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfarhansadiq&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
