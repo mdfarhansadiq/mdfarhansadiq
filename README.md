@@ -1,39 +1,38 @@
 # Hi there 👋, I'm মোঃ ফারহান সাদিক
 
 ### 👨‍💻 About Me
-I'm a passionate **Programmer**, **Coder**, and **Developer** who loves experimenting with new technologies and building fun projects. This repository showcases how you can create an attractive GitHub profile README.
+I'm a passionate **Programmer**, **Coder**, and **Developer** who loves experimenting with new technologies and building fun projects.
+
 
 ### 🛠️ Skills
 - **Languages & Frameworks:** 
   - Laravel
-  - JavaScript (ES6)
+  - Flask
   - HTML
   - PHP
   - Python
 - **Currently Learning:** 
-  - Competitive Programming
+  - Programming Problem Solving
   - PHP
   - Python
-  - JavaScript (ES6)
-  - Mathematics
   - Laravel
-  - Django
+  - Flask
 
 ### 🚀 Projects
 - 🔭 **Web Development:** Worked on various projects using Laravel and a Flask project.
 
 ### 🌱 What I'm Learning
 I'm continuously improving my skills in:
-- Competitive Programming
-- Web Development with PHP and JavaScript
-- Backend Development with Laravel and Django
-- Advanced Mathematics for Computer Science
+- Programming Problem Solving 
+- Web Development with PHP and Python
+- Backend Development with Laravel and Flask
 
 ### 📫 Contact Me
 Feel free to reach out to me via email at:
 - **Email:** mdfarhansadiq01@gmail.com
 
 ---
+
 
 ### 🏆 Achievements
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mdfarhansadiq&theme=nightowl)](https://github.com/ryo-ma/github-profile-trophy)
